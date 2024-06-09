@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">StoryApp</string>
+    <string name="title_login">Login</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="title_landing">Express Yourself, Share Your Story</string>
+    <string name="title_register">Register</string>
+    <string name="hint_name">Name</string>
+    <string name="dont_have_account">Don\'t have an account?</string>
+    <string name="todo">TODO</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="upload">Upload</string>
+    <string name="empty_image_warning">Silakan masukkan berkas gambar terlebih dahulu.</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="share_with_your_location">Share with your location?</string>
+    <string name="email_format_not_valid">Email format not valid!</string>
+    <string name="password_must_be_at_least_8_characters_long">Password must be at least 8 characters long.</string>
+    <string name="retry">Coba lagi</string>
+</resources>
